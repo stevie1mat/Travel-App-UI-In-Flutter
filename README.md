@@ -5,7 +5,7 @@ Running The Project:
 <a href="https://flutter.dev">Install Flutter</a>
 
 Commands:
-flutter pub get
+flutter pub get <br/>
 flutter run
 
 ## Packages Used
