@@ -9,4 +9,4 @@
 
 # Screenshots
 
-<img src="https://github.com/stevie1mat/Travel-App-UI-In-Flutter/blob/main/1.jpeg" width="300" height="700">
+<img src="https://github.com/stevie1mat/Travel-App-UI-In-Flutter/blob/main/1.jpeg" width="300" height="600">
