@@ -1,10 +1,10 @@
 # Travel App UI In Flutter For Android & iOS
 Travel App UI Template made in Flutter for both Android & iOS.
 
-Running The Project: 
+# Running The Project: 
 <a href="https://flutter.dev">Install Flutter</a>
 
-Commands:
+# Commands: <br/>
 flutter pub get <br/>
 flutter run
 
